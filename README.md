@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/951eb140-653f-4ded-b1ab-f499ebb517dd)# Memory Game (Kotlin & Android Studio)
+# Memory Game (Kotlin & Android Studio)
 
 A fun and interactive Memory Game built using **Kotlin** and **Android Studio**. Players can test their memory skills by matching image pairs across different difficulty levels. The game also allows users to add custom images from their device. Firebase Firestore is used for data storage.
 
