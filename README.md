@@ -19,13 +19,12 @@ A fun and interactive Memory Game built using **Kotlin** and **Android Studio**.
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/9e2bf5fc-d8cb-44b6-9186-1a0239097f3b)
-![image](https://github.com/user-attachments/assets/f4dc2c7b-4fa1-4a09-95fc-d42e65371111)
-![image](https://github.com/user-attachments/assets/6f2e4769-da32-4679-a269-c03ccb0bb8bb)
-![image](https://github.com/user-attachments/assets/a40aa2df-a45e-4d2d-8e34-c170cb17c82b)
-![image](https://github.com/user-attachments/assets/158a88d7-5662-4cab-bf38-d014995ae37c)
-![image](https://github.com/user-attachments/assets/1c7f2015-4997-4b19-85ac-e8cd4231a3f8)
-
+<img src="https://github.com/user-attachments/assets/01ca75ef-931c-4fcf-bc0d-bbeb8c9c35e0" width="300">
+<img src="https://github.com/user-attachments/assets/8e7b88da-3ab8-4936-9862-0a049da4bd7e" width="300">
+<img src="https://github.com/user-attachments/assets/4b498bd4-b4fd-4607-8571-f8bac6e91d67" width="300">
+<img src="https://github.com/user-attachments/assets/779af630-5f25-4125-8f63-62867c399d09" width="300">
+<img src="https://github.com/user-attachments/assets/628b9645-8611-4350-89e2-9056f3662194" width="300">
+<img src="https://github.com/user-attachments/assets/27494d64-7b47-4ce7-900d-0e85bcce4401" width="300">
 
 ## 🚀 Installation
 
